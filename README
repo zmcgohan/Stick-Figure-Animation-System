@@ -1,0 +1,5 @@
+:.:.: Stick Figure Animation System :.:.:
+
+This system allows for stick figures to be placed in any sort of gaming or other visual application, such as a physics simulation. Rather than generating many different hardcoded images for an animation, this allows for extremely smooth animation at any framerate.
+
+Each of the stick figure's body parts (head, left/right arm, torso, upper and lower left/right leg) is dynamically generated based on a size given to the torso and angles given for each body part. 
